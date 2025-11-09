@@ -1,12 +1,12 @@
 {
-  "name": "js-blended-task-05",
+  "name": "js5note",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/js-blended-task-05/",
+    "build": "vite build --base=/js5note/",
     "preview": "vite preview",
     "push": "node script/push.js"
   },
